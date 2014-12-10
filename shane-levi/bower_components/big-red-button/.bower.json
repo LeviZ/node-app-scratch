@@ -1,0 +1,27 @@
+{
+  "name": "big-red-button",
+  "homepage": "https://github.com/LeviZ/big-red-button",
+  "authors": [
+    "Levi Zortman <levizortman@gmail.com>"
+  ],
+  "description": "We are gonna make a big red button",
+  "main": "_big-red-btn.scss",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "9b925e950e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9b925e950e6da050663b9b69acdc7d178736bed9"
+  },
+  "_source": "git://github.com/LeviZ/big-red-button.git",
+  "_target": "*",
+  "_originalSource": "big-red-button",
+  "_direct": true
+}

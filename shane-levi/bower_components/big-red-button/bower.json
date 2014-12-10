@@ -1,0 +1,18 @@
+{
+  "name": "big-red-button",
+  "version": "0.1.0",
+  "homepage": "https://github.com/LeviZ/big-red-button",
+  "authors": [
+    "Levi Zortman <levizortman@gmail.com>"
+  ],
+  "description": "We are gonna make a big red button",
+  "main": "_big-red-btn.scss",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

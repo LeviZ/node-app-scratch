@@ -4,6 +4,12 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'public/stylesheets/style.css': 'sass/style.scss'
+        },
+        options: {
+          sourceMap: true,
+          includePaths: [
+            './bower_components/big-red-button'
+          ]
         }
       }
     },

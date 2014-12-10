@@ -1,0 +1,6 @@
+{
+  "name": "big-red-button",
+  "dependencies": {
+    "big-red-button": "*"
+  }
+}
